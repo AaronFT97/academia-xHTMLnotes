@@ -1,0 +1,10 @@
+
+
+.lista-lugares span {
+    text-decoration-line: underline;
+    color: blue;
+}
+
+.tiempo p {
+    line-height: 25px;
+}
